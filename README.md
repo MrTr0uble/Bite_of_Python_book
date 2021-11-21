@@ -1,2 +1,2 @@
 # Bite_of_Python
-Script for "Bite of Python " book.
+Scripts for the book "Bite of Python".
